@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f8e44baa-32d7-49f5-a6a1-1f9896179b78" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1gVlobc62WZLLSRoG7aLQ0e1COn" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="true" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.includeInheritedMembers" value="true" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="coffee-machine" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="coffee-machine" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MachineTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="coffee-machine" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MachineTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MachineTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f8e44baa-32d7-49f5-a6a1-1f9896179b78" name="Default Changelist" comment="" />
+      <created>1598207816345</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598207816345</updated>
+      <workItem from="1598207821878" duration="8183000" />
+      <workItem from="1598289939936" duration="2062000" />
+      <workItem from="1598292201021" duration="1217000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="319" y="-875" key="#Project_Structure" timestamp="1598207830982">
+      <screen x="-241" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="319" y="-875" key="#Project_Structure/-241.-1080.1920.1080/0.0.1440.900@-241.-1080.1920.1080" timestamp="1598207830982" />
+    <state x="183" y="-878" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598208186440">
+      <screen x="-241" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="183" y="-878" key="#com.intellij.execution.impl.EditConfigurationsDialog/-241.-1080.1920.1080/0.0.1440.900@-241.-1080.1920.1080" timestamp="1598208186440" />
+    <state x="532" y="-817" key="#com.intellij.ide.util.MemberChooser" timestamp="1598214912420">
+      <screen x="-241" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="532" y="-817" key="#com.intellij.ide.util.MemberChooser/-241.-1080.1920.1080/0.0.1440.900@-241.-1080.1920.1080" timestamp="1598214912420" />
+    <state x="457" y="-757" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1598290069092">
+      <screen x="-241" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="457" y="-757" key="#com.intellij.ide.util.PackageChooserDialog/-241.-1080.1920.1080/0.0.1440.900@-241.-1080.1920.1080" timestamp="1598290069092" />
+    <state x="481" y="-994" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1598208784758">
+      <screen x="-241" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="481" y="-994" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/-241.-1080.1920.1080/0.0.1440.900@-241.-1080.1920.1080" timestamp="1598208784758" />
+    <state width="1398" height="359" key="GridCell.Tab.0.bottom" timestamp="1598292732318">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1878" height="304" key="GridCell.Tab.0.bottom/-241.-1080.1920.1080/0.0.1440.900@-241.-1080.1920.1080" timestamp="1598292007925" />
+    <state width="1878" height="304" key="GridCell.Tab.0.bottom/-241.-1080.1920.1080/0.23.1440.877@-241.-1080.1920.1080" timestamp="1598210592052" />
+    <state width="1398" height="359" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1598292732318" />
+    <state width="1398" height="359" key="GridCell.Tab.0.center" timestamp="1598292732317">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1878" height="304" key="GridCell.Tab.0.center/-241.-1080.1920.1080/0.0.1440.900@-241.-1080.1920.1080" timestamp="1598292007921" />
+    <state width="1878" height="304" key="GridCell.Tab.0.center/-241.-1080.1920.1080/0.23.1440.877@-241.-1080.1920.1080" timestamp="1598210592051" />
+    <state width="1398" height="359" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1598292732317" />
+    <state width="1398" height="359" key="GridCell.Tab.0.left" timestamp="1598292732316">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1878" height="304" key="GridCell.Tab.0.left/-241.-1080.1920.1080/0.0.1440.900@-241.-1080.1920.1080" timestamp="1598292007920" />
+    <state width="1878" height="304" key="GridCell.Tab.0.left/-241.-1080.1920.1080/0.23.1440.877@-241.-1080.1920.1080" timestamp="1598210592050" />
+    <state width="1398" height="359" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1598292732316" />
+    <state width="1398" height="359" key="GridCell.Tab.0.right" timestamp="1598292732317">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1878" height="304" key="GridCell.Tab.0.right/-241.-1080.1920.1080/0.0.1440.900@-241.-1080.1920.1080" timestamp="1598292007924" />
+    <state width="1878" height="304" key="GridCell.Tab.0.right/-241.-1080.1920.1080/0.23.1440.877@-241.-1080.1920.1080" timestamp="1598210592051" />
+    <state width="1398" height="359" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1598292732317" />
+    <state x="228" y="-901" key="SettingsEditor" timestamp="1598210580568">
+      <screen x="-241" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="228" y="-901" key="SettingsEditor/-241.-1080.1920.1080/0.0.1440.900@-241.-1080.1920.1080" timestamp="1598208054275" />
+    <state x="228" y="-901" key="SettingsEditor/-241.-1080.1920.1080/0.23.1440.877@-241.-1080.1920.1080" timestamp="1598210580568" />
+    <state x="431" y="-639" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1598290050506">
+      <screen x="-241" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="431" y="-639" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/-241.-1080.1920.1080/0.0.1440.900@-241.-1080.1920.1080" timestamp="1598290050506" />
+    <state x="498" y="-806" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1598290079116">
+      <screen x="-241" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="498" y="-806" key="com.intellij.testIntegration.createTest.CreateTestDialog/-241.-1080.1920.1080/0.0.1440.900@-241.-1080.1920.1080" timestamp="1598290079116" />
+  </component>
+</project>
